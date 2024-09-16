@@ -3,7 +3,7 @@
 - 🌱 I’m currently in engineer studies 
 - 📫 How to reach me : my discord is chelan_
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I have hypersudation ! Don't hesitate to look it up, you'll learn something
+- ⚡ Fun fact: I have hyperhydrosis ! Don't hesitate to look it up, you'll learn something
 
 <!---
 XChelan/XChelan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
